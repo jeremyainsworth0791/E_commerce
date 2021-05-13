@@ -26,7 +26,7 @@
   ## Description
   A backend connection for an ecommerce application
   https://github.com/jeremyainsworth0791/E_commerce
-  [Demo here!](https://something.heroku.com) 
+   
 
   
   ## Installation
